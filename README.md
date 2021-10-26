@@ -14,12 +14,13 @@
 
 <div style="display: flex" >
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelaun&show_icons=true&bg_color=DEG,ddffd9,ecc8ae&height=180em&text_color=030301&title_color=764134&icon_color=764134&border_radius=20px&border_color=2a1a1f)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelaun&show_icons=true&bg_color=DEG,ddffd9,ecc8ae&text_color=030301&title_color=764134&icon_color=764134&border_radius=20px&border_color=2a1a1f" />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&text_color=030301&height=180em&title_color=764134&bg_color=DEG,ddffd9,ecc8ae&border_radius=20px&border_color=2a1a1f)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&text_color=030301&title_color=764134&bg_color=DEG,ddffd9,ecc8ae&border_radius=20px&border_color=2a1a1f" />
 
 </div>
 
+## Tecnologias que tenho experiência
 
 
 <div style="display: inline_block">
@@ -35,7 +36,7 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-##
+## Contatos
 
 <div>
   <a href="https://wa.me/+553398231101"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp-link" /></a>
