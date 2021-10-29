@@ -1,6 +1,4 @@
-## Aopa! Sou o Marcelo ou Marcelão, Marcelaum, Marcelaun se prefirir, seja muito bem vindo(a, x) ao meu humilde perfil do github, aqui você poderá encontrar códigos de qualidade meio duvidosa 😂 então por favor prepare-se adequadamente para a aventura e sinta-se à vontade!  👋
-
-
+## Aopa! Sou o Marcelo ou Marcelão, Marcelaum, Marcelaun se prefirir,
 
 
 - 🔭 Atualmente trabalhando com front-end.
