@@ -5,18 +5,18 @@
 - Estudando Typescript, Data science com python...
 - 🤔 Preciso de ajuda com dicas de livros e boas práticas! 
 
+<hr>
+
+## Contatos
 
 <div>
-  <h1>Readmezinho criado com a ajuda da <a href="https://github.com/rafaballerini">Rafa Ballerini</a></h1>
+  <a href="https://wa.me/+553398231101" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp-link" /></a>
+      <a href="https://t.me/Marcelaumdev" target="_blank" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-link" /></a>
+      <a href="mailto:contatomarceloalmeidabarbosa@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-link" /></a>
+      <a href="https://discordapp.com/users/269698519990927360/" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-link" /></a>
+      <a href="https://www.linkedin.com/in/marcelo-almeida-barbosa-444b70173/"target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-link" /></a>
 </div>
-
-<div style="display: flex" >
-  
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcelaun&show_icons=true&bg_color=DEG,ddffd9,ecc8ae&text_color=030301&title_color=764134&icon_color=764134&border_radius=20px&border_color=2a1a1f" />
-  
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&text_color=030301&title_color=764134&bg_color=DEG,ddffd9,ecc8ae&border_radius=20px&border_color=2a1a1f" />
-
-</div>
+<hr>
 
 ## Tecnologias que tenho experiência
 
@@ -34,14 +34,17 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-## Contatos
+<hr>
 
-<div>
-  <a href="https://wa.me/+553398231101" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp-link" /></a>
-      <a href="https://t.me/Marcelaumdev" target="_blank" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-link" /></a>
-      <a href="mailto:contatomarceloalmeidabarbosa@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-link" /></a>
-      <a href="https://discordapp.com/users/269698519990927360/" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-link" /></a>
-      <a href="https://www.linkedin.com/in/marcelo-almeida-barbosa-444b70173/"target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-link" /></a>
+<div style="display: flex" >
+  
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcelaun&show_icons=true&bg_color=DEG,ddffd9,ecc8ae&text_color=030301&title_color=764134&icon_color=764134&border_radius=20px&border_color=2a1a1f" />
+  
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&text_color=030301&title_color=764134&bg_color=DEG,ddffd9,ecc8ae&border_radius=20px&border_color=2a1a1f" />
+
 </div>
+
+
+
   
   
