@@ -1,7 +1,7 @@
 ## Aopa! Sou o Marcelo ou Marcelão, Marcelaum, Marcelaun se prefirir,
 
 
-- 🔭 Atualmente trabalhando com front-end.
+- 🔭 Atualmente estudando front-end.
 - Estudando Typescript, Data science com python...
 - 🤔 Preciso de ajuda com dicas de livros e boas práticas! 
 
