@@ -10,7 +10,7 @@
 ## Contatos
 
 <div>
-  <a href="https://wa.me/+553398231101" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp-link" /></a>
+  <a href="https://wa.me/+5531991151126" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp-link" /></a>
       <a href="https://t.me/Marcelaumdev" target="_blank" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-link" /></a>
       <a href="mailto:contatomarceloalmeidabarbosa@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-link" /></a>
       <a href="https://discordapp.com/users/269698519990927360/" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-link" /></a>
@@ -24,7 +24,6 @@
 <div style="display: inline_block">
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
