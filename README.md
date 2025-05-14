@@ -10,11 +10,11 @@
 ## Contatos
 
 <div>
-  
-      
-      <a href="mailto:contatomarceloalmeidabarbosa@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-link" /></a>
+   <a href="mailto:contatomarceloalmeidabarbosa@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-link" /></a>
       <a href="https://discordapp.com/users/269698519990927360/" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-link" /></a>
       <a href="https://www.linkedin.com/in/marcelo-almeida-barbosa-444b70173/"target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-link" /></a>
+      
+     
 </div>
 <hr>
 
@@ -28,7 +28,6 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
