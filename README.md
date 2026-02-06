@@ -102,19 +102,6 @@ Sistema inteligente para gestão agrícola com IA generativa e automação de pr
 - Evolution WhatsApp API
 - Integrações orientadas a eventos
 
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcelaun&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelaun&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 📫 Contato
 
