@@ -48,8 +48,9 @@ Imagem → Quality Gate → Classificação → Smart Crop → Detecção de Cam
 
 - Accuracy Quality Gate: 99.71%
 - Precision detecção documentos: 99.95%
-- Recall: 99.99%
+- Recall: 97%
 - Inferência em tempo real
+
 
 🧰 Stack:  
 `Python` `PyTorch` `YOLOv8` `Torchvision` `CVAT` `Roboflow` `Docker`
